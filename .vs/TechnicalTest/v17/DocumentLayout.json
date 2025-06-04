@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "src\\Core.Tests\\UnitTest1.cs",
               "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core.Tests\\UnitTest1.cs",
               "RelativeToolTip": "src\\Core.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T20:12:20.378Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "Api.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:11:40.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T20:11:40.539Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:11:08.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T20:11:08.928Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "src\\Core\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:08:57.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T20:08:57.676Z"
             }
           ]
         }
