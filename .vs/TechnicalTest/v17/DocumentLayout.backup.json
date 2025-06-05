@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\practice\\TechnicalTest\\TechnicalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\practice\\TechnicalTest\\TechnicalTest\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|c:\\practice\\technicaltest\\technicaltest\\src\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|solutionrelative:src\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5B49B076-F0DE-447F-BF21-657D678F1D9C}|src\\Core.Tests\\Core.Tests.csproj|c:\\practice\\technicaltest\\technicaltest\\src\\core.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B49B076-F0DE-447F-BF21-657D678F1D9C}|src\\Core.Tests\\Core.Tests.csproj|solutionrelative:src\\core.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|c:\\practice\\technicaltest\\technicaltest\\src\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|c:\\practice\\technicaltest\\technicaltest\\src\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|solutionrelative:src\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 151,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -65,25 +57,8 @@
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-04T20:55:03.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "src\\Core.Tests\\UnitTest1.cs",
@@ -96,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\Api.Tests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "Api.Tests\\UnitTest1.cs",
@@ -108,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\Class1.cs",
@@ -120,16 +95,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Entities\\Product.cs",
-              "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core\\Entities\\Product.cs",
-              "RelativeToolTip": "src\\Core\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Class1.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core\\Class1.cs",
+              "RelativeToolTip": "src\\Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:08:57.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T20:08:57.676Z"
             }
           ]
         }
