@@ -2,7 +2,6 @@
 
 namespace MyCompany.Test.Infrastructure.Services
 {
-
     public interface IProductService
     {
         Task<IEnumerable<Product>> GetAllAsync();
@@ -12,7 +11,6 @@ namespace MyCompany.Test.Infrastructure.Services
         Task<bool> DeleteAsync(int id);
 
     }
-
     public class ProductService : IProductService
     {
         private readonly List<Product> _products = new();
