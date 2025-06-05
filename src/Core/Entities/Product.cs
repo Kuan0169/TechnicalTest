@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Core.Entities
+namespace MyCompany.Test.Core.Entities
 {
     public class Product
     {
