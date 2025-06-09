@@ -1,22 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\practice\\TechnicalTest\\TechnicalTest\\",
+  "WorkspaceRootPath": "C:\\practice\\TechnicalTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B49B076-F0DE-447F-BF21-657D678F1D9C}|src\\Core.Tests\\Core.Tests.csproj|c:\\practice\\technicaltest\\technicaltest\\src\\core.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B49B076-F0DE-447F-BF21-657D678F1D9C}|src\\Core.Tests\\Core.Tests.csproj|solutionrelative:src\\core.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|c:\\practice\\technicaltest\\src\\infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E0B0AD0-7D41-4905-9B00-63BF363FA0F6}|Api.Tests\\Api.Tests.csproj|c:\\practice\\technicaltest\\technicaltest\\api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E0B0AD0-7D41-4905-9B00-63BF363FA0F6}|Api.Tests\\Api.Tests.csproj|solutionrelative:api.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|c:\\practice\\technicaltest\\src\\core\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|solutionrelative:src\\core\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|c:\\practice\\technicaltest\\technicaltest\\src\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|c:\\practice\\technicaltest\\src\\infrastructure\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|c:\\practice\\technicaltest\\technicaltest\\src\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|solutionrelative:src\\core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|c:\\practice\\technicaltest\\src\\infrastructure\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE187A86-E341-487A-8B4C-C39FD636F8A8}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C7A5A-B409-40BE-8EB1-6629036A0B09}|src\\Api\\Api.csproj|c:\\practice\\technicaltest\\src\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C7A5A-B409-40BE-8EB1-6629036A0B09}|src\\Api\\Api.csproj|solutionrelative:src\\api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|c:\\practice\\technicaltest\\src\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|solutionrelative:src\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|c:\\practice\\technicaltest\\src\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1EC1E23-8116-4F55-98E3-072413C657B3}|src\\Core\\Core.csproj|solutionrelative:src\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C7A5A-B409-40BE-8EB1-6629036A0B09}|src\\Api\\Api.csproj|c:\\practice\\technicaltest\\src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F73C7A5A-B409-40BE-8EB1-6629036A0B09}|src\\Api\\Api.csproj|solutionrelative:src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F73C7A5A-B409-40BE-8EB1-6629036A0B09}|src\\Api\\Api.csproj|c:\\practice\\technicaltest\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F73C7A5A-B409-40BE-8EB1-6629036A0B09}|src\\Api\\Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +46,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 151,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Core\\ProductContext.cs",
+              "RelativeDocumentMoniker": "src\\Core\\ProductContext.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Core\\ProductContext.cs",
+              "RelativeToolTip": "src\\Core\\ProductContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:50:28.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Infrastructure\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Services\\ProductService.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Infrastructure\\Services\\ProductService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Services\\ProductService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:28:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Infrastructure\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Infrastructure\\Models\\ProductModel.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:36:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Infrastructure\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Infrastructure\\Models\\ProductDto.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:32:24.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:22:58.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "src\\Core\\Core.csproj",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Core\\Core.csproj",
+              "RelativeToolTip": "src\\Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T05:50:05.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Core\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T05:21:22.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Api",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "src\\Api\\Api.csproj",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Api\\Api.csproj",
+              "RelativeToolTip": "src\\Api\\Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T18:23:50.045Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -58,52 +182,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "src\\Core.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "src\\Core.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\practice\\TechnicalTest\\src\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Program.cs",
+              "ToolTip": "C:\\practice\\TechnicalTest\\src\\Api\\Program.cs",
+              "RelativeToolTip": "src\\Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:12:20.378Z",
+              "WhenOpened": "2025-06-05T18:22:44.538Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\Api.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Api.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\Api.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "Api.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:11:40.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "src\\Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:11:08.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\Core\\Class1.cs",
-              "ToolTip": "C:\\practice\\TechnicalTest\\TechnicalTest\\src\\Core\\Class1.cs",
-              "RelativeToolTip": "src\\Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T20:08:57.676Z"
             }
           ]
         }

@@ -12,6 +12,6 @@ namespace MyCompany.Test.Core.Entities
         [Range(0, double.MaxValue)]
         public decimal Price { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
-        public int ProductId { get; set; }
+        public required Guid ProductId { get; set; }
     }
 }
